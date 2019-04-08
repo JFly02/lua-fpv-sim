@@ -4,7 +4,7 @@
 local drone = {x = 0, y = 0, z = 0}
 local speed = {x = 0, y = 0, z = 0}
 
-local lowFps = false
+local lowFps = true
 local fpsCounter = 0
 
 local gate = {w = 30, h = 30}
